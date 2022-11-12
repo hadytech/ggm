@@ -1,0 +1,11 @@
+{
+  "name": "ggm",
+  "version": "1.0.0",
+  "description": "GlobalGeoMessenger Pure HTML template",
+  "main": "app.js",
+  "author": "hdaya",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.2.2"
+  }
+}
